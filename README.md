@@ -1,5 +1,4 @@
-# TF-Games-Util
-A mirror/fork of Nusszer's TF Games En/Decoder Utility
+# TF (WFC/FOC) Coalesced Encoding/Decoding Utility
 
 This is a mirror/fork of the source that Patrik Nusszer put out on their now defunct website.
 Partly for archiving purposes. Also partly to see if anyone is interested in updating/fixing outstanding bugs
