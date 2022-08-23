@@ -1,0 +1,7 @@
+c:\users\patrik\documents\visual studio 2015\Projects\TFGames_Util_4.0\TFGames_Util_4.0\bin\Debug\TFGames_Util_4.0.exe.config
+c:\users\patrik\documents\visual studio 2015\Projects\TFGames_Util_4.0\TFGames_Util_4.0\bin\Debug\TFGames_Util_4.0.exe
+c:\users\patrik\documents\visual studio 2015\Projects\TFGames_Util_4.0\TFGames_Util_4.0\bin\Debug\TFGames_Util_4.0.pdb
+c:\users\patrik\documents\visual studio 2015\Projects\TFGames_Util_4.0\TFGames_Util_4.0\obj\Debug\TFGames_Util_4._0.Properties.Resources.resources
+c:\users\patrik\documents\visual studio 2015\Projects\TFGames_Util_4.0\TFGames_Util_4.0\obj\Debug\TFGames_Util_4.0.csproj.GenerateResource.Cache
+c:\users\patrik\documents\visual studio 2015\Projects\TFGames_Util_4.0\TFGames_Util_4.0\obj\Debug\TFGames_Util_4.0.exe
+c:\users\patrik\documents\visual studio 2015\Projects\TFGames_Util_4.0\TFGames_Util_4.0\obj\Debug\TFGames_Util_4.0.pdb
